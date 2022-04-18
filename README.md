@@ -1,2 +1,8 @@
-# React-umi-h5-template
-基于umi框架创建的React移动端项目模板
+# umi project 
+## React-umo-mobile-template
+
+技术：基于 Umi3 + DVA + TS + Antd-Mobile
+
+安装依赖：yarn
+
+启动项目：yarn start
