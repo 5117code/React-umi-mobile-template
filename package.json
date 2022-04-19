@@ -22,8 +22,9 @@
   "dependencies": {
     "@ant-design/pro-layout": "^5.0.12",
     "@types/classnames": "^2.3.1",
-    "@umijs/preset-react": "1.x",
+    "@umijs/preset-react": "^2.1.2",
     "@umijs/test": "^3.2.27",
+    "antd-mobile": "^5.10.2",
     "classnames": "^2.3.1",
     "lint-staged": "^10.0.7",
     "postcss-px-to-viewport": "^1.1.1",
